@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨🏽‍💻 Mateus Oliveira
 
-<!--
-**MSTEUSSM/MSTEUSSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Dados`**
 
-Here are some ideas to get you started:
+Me chamo Mateus Silva de Oliveira, nasci em 18/10/2000 e sou natural de Guarulhos-SP. Cursei por três anos Engenharia da Computação no ENIAC. Atualmente, estou trabalhando em um Big Four a PWC. Meu cotidiano e automatizar processos, limpar e padronizar dados, resolver problemas e tirar ideias do papel. Gosto de me capacitar e criar soluções inovadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+| HTML5 | CSS3 | Python | Alteryx |
+| :---: | :---: | :---: | :---: |
+| <img src="https://jsdelivr.net" width="35"> | <img src="https://jsdelivr.net" width="35"> | <img src="https://jsdelivr.net" width="35"> | <img src="./assets/alteryx.svg" width="35"> |
+
+
+<br/>
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img alt="GitHub Stats" height="180" style="padding-right: 10px;" src="https://vercel.app" />
+  <img alt="GitHub Stats" height="180" src="https://vercel.app" />
+</p>
