@@ -15,6 +15,7 @@ Me chamo Mateus Silva de Oliveira, nasci em 18/10/2000 e sou natural de Guarulho
   <img alt="Python" title="Python" height="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Alteryx" title="Alteryx" height="35px" style="padding-right: 12px;" src="./assets/alteryx.svg" />
   <img alt="ACL" title="ACL" height="35px" style="padding-right: 12px;" src="./assets/acl.svg" />
+  <img alt="VBA" title="VBA" height="35px" style="padding-right: 12px;" src="./assets/vba.svg" />
 </p>
 
 
