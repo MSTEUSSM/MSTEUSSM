@@ -15,9 +15,12 @@
 ---
 
 ### 
+<details close> 
+  <summary><h2>
   <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=350&lines=%F0%9F%A4%96+Linguagens+%26+Tecnologias" alt="Typing SVG" /></a>
   </p>
+  </h2></summary>
 
 <p align="left">
   <img alt="HTML" title="HTML" height="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -33,13 +36,17 @@
   <img alt="VBA" title="VBA" height="35px" style="padding-right: 12px;" src="./assets/vba.svg" />
   <img alt="Power BI" title="Power BI" height="35px" style="padding-right: 12px;" src="./assets/bi.svg" />
 </p>
+</details>
 
 ---
 
 ### 
+<details close> 
+  <summary><h2>
  <p align="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&height=44&lines=%F0%9F%92%BC+Experi%C3%AAncia+%26+Trajet%C3%B3ria+Profissional" alt="Typing SVG" /></a>
  </p>
+ </h2></summary>
 
 #### **Specialist (Analista de Dados) | PwC (Big Four)** — *2022 - Atual*
 * **ETL & Automação:** Desenvolvimento de fluxos automatizados de ETL com **Alteryx** e **Python**, eliminando rotinas manuais e otimizando o tempo de processamento.
@@ -52,12 +59,17 @@
 * **Desenvolvimento de Dashboards:** Modelagem de relatórios gerenciais estruturados e painéis visuais utilizando **Excel Avançado** para apresentação de indicadores de produtividade e performance para a gerência.
 * **Estruturação de Dados (Data Input):** Responsável pela governança, input e organização de informações críticas de manufatura no sistema corporativo, garantindo consistência nos reports de produção.
 
+</details>
+
 ---
 
 ### 
+<details close> 
+  <summary><h2>
  <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=300&height=44&lines=%F0%9F%93%8A+Estat%C3%ADsticas" alt="Typing SVG" /></a>
  </p>
+ </h2></summary>
  
 <p>
   <img 
@@ -74,3 +86,4 @@
   src="https://github-readme-stats-omega-pearl-jzejp8chgg.vercel.app/api/top-langs/?username=msteussm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&custom_title=Tecnologias&title_color=36BCF7FF&icon_color=36BCF7FF&hide=Jupyter%20Notebook,Roff" height="192px"
    />
 </p>
+</details>
