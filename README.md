@@ -15,7 +15,7 @@
 ---
 
 ### 
-<details close> 
+<details open> 
   <summary><h2>
   <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=350&lines=%F0%9F%A4%96+Linguagens+%26+Tecnologias" alt="Typing SVG" /></a>
@@ -41,7 +41,7 @@
 ---
 
 ### 
-<details close> 
+<details open> 
   <summary><h2>
  <p align="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&height=44&lines=%F0%9F%92%BC+Experi%C3%AAncia+%26+Trajet%C3%B3ria+Profissional" alt="Typing SVG" /></a>
@@ -64,7 +64,7 @@
 ---
 
 ### 
-<details close> 
+<details open> 
   <summary><h2>
  <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=300&height=44&lines=%F0%9F%93%8A+Estat%C3%ADsticas" alt="Typing SVG" /></a>
