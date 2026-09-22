@@ -1,42 +1,14 @@
-<p align="left">
-  <img src="https://vercel.app" alt="Mateus Oliveira" />
-</p>
+<div align="center">
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&&color=F7F7F7&center=true&vCenter=true&width=500&lines=%3C++Bem+vindo+ao+meu+Perfil!+%3E;%3C+Meu+nome+%C3%A9+Mateus+%F0%9F%98%8E+%3E" alt="Typing SVG" />
+  </a>
+</div>
 
-
-
-**`Specialist (Analista de Dados)`**
-
-Chamo-me Mateus Silva de Oliveira, nasci em 18/10/2000 e sou natural de Guarulhos-SP. Cursei três anos de Engenharia da Computação na ENIAC. Atualmente, estou trabalhando em uma Big Four, a PwC. No meu cotidiano, automatizo processos, limpo e padronizo dados, resolvo problemas e tiro ideias do papel. Gosto de me capacitar e criar soluções inovadoras.
-
-<p align="left">
-    <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://www.linkedin.com/in/mateus-silva-de-oliveira-4598ba152/)">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  Chamo-me Mateus Silva de Oliveira, nasci em 18/10/2000 e sou natural de Guarulhos-SP.<br />
+  Cursei três anos de Engenharia da Computação na ENIAC.<br /> 
+  Atualmente, estou trabalhando em uma Big Four, a PwC. No meu cotidiano, automatizo processos, limpo e padronizo dados, resolvo problemas e tiro ideias do papel.<br /> 
+  Gosto de me capacitar e criar soluções inovadoras.
 </p>
 
 ---
