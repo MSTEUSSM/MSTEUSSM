@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Mateus Oliveira
 
-**`Analista de Dados`**
+**`Specialist (Analista de Dados)`**
 
 Chamo-me Mateus Silva de Oliveira, nasci em 18/10/2000 e sou natural de Guarulhos-SP. Cursei três anos de Engenharia da Computação na ENIAC. Atualmente, estou trabalhando em uma Big Four, a PwC. No meu cotidiano, automatizo processos, limpo e padronizo dados, resolvo problemas e tiro ideias do papel. Gosto de me capacitar e criar soluções inovadoras.
 
