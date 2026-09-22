@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./assets/nome-animado.svg" alt="Mateus Silva de Oliveira" height="45px" />
+  <img src="./assets/nome-animado.svg?v=2" alt="Mateus Silva de Oliveira" height="45px" />
 </p>
 
 
