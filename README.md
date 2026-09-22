@@ -1,8 +1,6 @@
 <p align="left">
-  <img src="https://vercel.app" alt="Mateus Silva de Oliveira" />
+  <img src="./assets/nome-animado.svg" alt="Mateus Silva de Oliveira" height="45px" />
 </p>
-
-
 
 
 **`Specialist (Analista de Dados)`**
