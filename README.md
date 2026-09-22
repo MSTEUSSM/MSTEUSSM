@@ -56,7 +56,7 @@
 
 ### 
  <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&height=44&lines=%F0%9F%93%8A+Estat%C3%ADsticas" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=300&height=44&lines=%F0%9F%93%8A+Estat%C3%ADsticas" alt="Typing SVG" /></a>
  </p>
  
 <p>
