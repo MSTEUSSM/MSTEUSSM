@@ -1,4 +1,3 @@
-xml
 <svg xmlns="http://w3.org" viewBox="0 0 600 50" width="600" height="50">
   <style>
     .typing-text {
@@ -25,3 +24,4 @@ xml
   </style>
   <text x="0" y="35" class="typing-text">Mateus Silva de Oliveira</text>
 </svg>
+
