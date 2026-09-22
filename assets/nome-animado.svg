@@ -1,0 +1,26 @@
+<svg xmlns="http://w3.org" viewBox="0 0 600 50" width="600" height="50">
+  <style>
+    .typing-text {
+      font-family: 'Fira Code', monospace, sans-serif;
+      font-weight: bold;
+      font-size: 28px;
+      fill: #D17E8E;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 3px solid #D17E8E;
+      width: 0;
+      animation: typing 4s steps(30, end) infinite, blink 0.75s step-end infinite;
+    }
+    @keyframes typing {
+      0% { width: 0 }
+      50% { width: 100% }
+      90% { width: 100% }
+      100% { width: 0 }
+    }
+    @keyframes blink {
+      from, to { border-color: transparent }
+      50% { border-color: #D17E8E }
+    }
+  </style>
+  <text x="0" y="35" class="typing-text">Mateus Silva de Oliveira</text>
+</svg>
