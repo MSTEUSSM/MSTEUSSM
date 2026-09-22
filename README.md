@@ -128,7 +128,7 @@ Me chamo Mateus Silva de Oliveira, nasci em 18/10/2000 e sou natural de Guarulho
   title="Alteryx"
   width="30px"
   style="padding-right: 10px;"
-  src="./assets/alteryx.svg"   
+  src="./assets/alteryx.sv"   
 />
 
 <br/>
