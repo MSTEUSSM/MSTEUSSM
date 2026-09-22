@@ -1,19 +1,23 @@
 <div align="center">
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&&color=F7F7F7&center=true&vCenter=true&width=500&lines=%3C++Bem+vindo+ao+meu+Perfil!+%3E;%3C+Meu+nome+%C3%A9+Mateus+%F0%9F%98%8E+%3E" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&&color=36BCF7FF&center=true&vCenter=true&width=500&lines=%3C++Bem+vindo+ao+meu+Perfil!+%3E;%3C+Meu+nome+%C3%A9+Mateus+%F0%9F%98%8E+%3E" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  Chamo-me Mateus Silva de Oliveira, nasci em 18/10/2000 e sou natural de Guarulhos-SP.<br />
-  Cursei três anos de Engenharia da Computação na ENIAC.<br /> 
-  Atualmente, estou trabalhando em uma Big Four, a PwC. No meu cotidiano, automatizo processos, limpo e padronizo dados, resolvo problemas e tiro ideias do papel.<br /> 
-  Gosto de me capacitar e criar soluções inovadoras.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&center=true&vCenter=true&width=1000&height=20&lines=Chamo-me+Mateus+Silva+de+Oliveira%2C+nasci+em+18%2F10%2F2000+e+sou+natural+de+Guarulhos-SP" alt="Typing SVG" /></a><br />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&center=true&vCenter=true&width=1000&height=20&lines=Cursei+tr%C3%AAs+anos+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+ENIAC." alt="Typing SVG" /></a><br />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1&pause=1000&center=true&vCenter=true&width=1300&height=20&lines=Atualmente%2C+estou+trabalhando+em+uma+Big+Four%2C+a+PwC.+No+meu+cotidiano%2C+automatizo+processos%2C+limpo+e+padronizo+dados%2C+resolvo" alt="Typing SVG" /></a><br />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&center=true&vCenter=true&width=1000&height=20&lines=problemas+e+tiro+ideias+do+papel." alt="Typing SVG" /></a><br />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&center=true&vCenter=true&width=1000&height=20&lines=Gosto+de+me+capacitar+e+criar+solu%C3%A7%C3%B5es+inovadoras." alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 
+  <p align="left">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=300&lines=%F0%9F%A4%96+Linguagens+%26+Tecnologias" alt="Typing SVG" /></a>
+  </p>
 
 <p align="left">
   <img alt="HTML" title="HTML" height="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -32,7 +36,11 @@
 
 ---
 
-### 💼 Experiência & Trajetória Profissional
+### 
+ <p align="left">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&height=44&lines=%F0%9F%92%BC+Experi%C3%AAncia+%26+Trajet%C3%B3ria+Profissional" alt="Typing SVG" /></a>
+ </p>
+
 #### **Specialist (Analista de Dados) | PwC (Big Four)** — *2022 - Atual*
 * **ETL & Automação:** Desenvolvimento de fluxos automatizados de ETL com **Alteryx** e **Python**, eliminando rotinas manuais e otimizando o tempo de processamento.
 * **Data Cleansing & Padronização:** Higienização e consolidação de grandes volumes de dados provenientes de múltiplos sistemas e formatos de extensões variadas.
@@ -46,11 +54,23 @@
 
 ---
 
-<br/>
-
-### 📊 Estatísticas
- <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estatísticas do Github" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MSTEUSSM&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tecnologias" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MSTEUSSM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+### 
+ <p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&height=44&lines=%F0%9F%93%8A+Estat%C3%ADsticas" alt="Typing SVG" /></a>
+ </p>
+ 
+<p>
+  <img 
+  align="left" 
+  alt="Estatísticas do Github" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats-omega-pearl-jzejp8chgg.vercel.app/api/?username=msteussm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&custom_title=Estatísticas+do+Github&title_color=36BCF7FF&icon_color=36BCF7FF" height="192px"
+   />
+  <img 
+  align="left" 
+  alt="Tecnologias" 
+  height="200" 
+  src="https://github-readme-stats-omega-pearl-jzejp8chgg.vercel.app/api/top-langs/?username=msteussm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&custom_title=Tecnologias&title_color=36BCF7FF&icon_color=36BCF7FF&hide=Jupyter%20Notebook,Roff" height="192px"
+   />
 </p>
