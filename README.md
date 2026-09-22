@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Mateus Silva de Oliveira, nasci em 18/10/2000 e sou natural de Guarulhos-SP. Cursei por três anos Engenharia da Computação no ENIAC. Atualmente, estou trabalhando em um Big Four a PWC. Meu cotidiano e automatizar processos, limpar e padronizar dados, resolver problemas e tirar ideias do papel. Gosto de me capacitar e criar soluções inovadores.
+Me chamo Mateus Silva de Oliveira, nasci em 18/10/2000 e sou natural de Guarulhos-SP. Cursei por três anos Engenharia da Computação na ENIAC. Atualmente, estou trabalhando em um Big Four a PWC. Meu cotidiano e automatizar processos, limpar e padronizar dados, resolver problemas e tirar ideias do papel. Gosto de me capacitar e criar soluções inovadores.
 
 ---
 
