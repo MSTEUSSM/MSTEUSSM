@@ -73,7 +73,8 @@
    />
   <img 
   alt="Tecnologias" 
-  height="200" 
+  height="200"
+  style="padding-right: 10px;" 
   src="https://github-readme-stats-omega-pearl-jzejp8chgg.vercel.app/api/top-langs/?username=msteussm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&custom_title=Tecnologias&title_color=36BCF7FF&icon_color=36BCF7FF&hide=Jupyter%20Notebook,Roff" height="192px"
    />
 </p>
