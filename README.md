@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1&pause=1000&center=true&vCenter=true&width=1000&height=20&lines=Chamo-me+Mateus+Silva+de+Oliveira%2C+nasci+em+18%2F10%2F2000+e+sou+natural+de+Guarulhos-SP" alt="Typing SVG" /><br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1&pause=1000&center=true&vCenter=true&width=1000&height=20&lines=Chamo-me+Mateus+Silva+de+Oliveira%2C+nasci+em+18%2F10%2F2000+e+sou+natural+de+Guarulhos-SP." alt="Typing SVG" /><br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1&pause=1000&center=true&vCenter=true&width=1000&height=20&lines=Cursei+tr%C3%AAs+anos+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+ENIAC." alt="Typing SVG" /><br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&width=1300&height=25&lines=Atualmente%2C+estou+trabalhando+em+uma+Big+Four%2C+a+PwC.+No+meu+cotidiano%2C+automatizo+processos%2C" alt="Typing SVG" /><br /> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1&pause=1000&center=true&vCenter=true&width=1000&height=20&lines=limpo+e+padronizo+dados%2C+resolvo+problemas+e+tiro+ideias+do+papel." alt="Typing SVG" /><br />
