@@ -20,7 +20,7 @@
   </p>
   </h2></summary>
 
-<p align="left">
+<p align="center">
   <img alt="HTML" title="HTML" height="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" height="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" height="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -64,16 +64,14 @@
  </p>
  </h2></summary>
  
-<p>
+<p align="center">
   <img 
-  align="left" 
   alt="Estatísticas do Github" 
   height="200" 
   style="padding-right: 10px;" 
   src="https://github-readme-stats-omega-pearl-jzejp8chgg.vercel.app/api/?username=msteussm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&custom_title=Estatísticas+do+Github&title_color=36BCF7FF&icon_color=36BCF7FF" height="192px"
    />
   <img 
-  align="left" 
   alt="Tecnologias" 
   height="200" 
   src="https://github-readme-stats-omega-pearl-jzejp8chgg.vercel.app/api/top-langs/?username=msteussm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&custom_title=Tecnologias&title_color=36BCF7FF&icon_color=36BCF7FF&hide=Jupyter%20Notebook,Roff" height="192px"
