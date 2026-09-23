@@ -61,7 +61,7 @@
 <details open> 
   <summary><h2>
  <p align="left">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=%F0%9F%93%8A+Estat%C3%ADsticas" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1008&width=435&lines=%F0%9F%93%8A+Estat%C3%ADsticas" alt="Typing SVG" />
  </p>
  </h2></summary>
  
